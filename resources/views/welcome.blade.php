@@ -7,7 +7,7 @@
 
     </head>
     <body class="antialiased">
-        <h1>Hello world</h1>
+        <h1 style="color: red">Hello world</h1>
         <div>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ut, facere ratione. Dolorum, earum in asperiores architecto corporis animi. Officiis voluptas eos quo recusandae illum accusamus nobis impedit debitis magni saepe!</div>
     </body>
 </html>
